@@ -1,0 +1,3 @@
+C# is a programming language and .NET Framework is an application framework library.
+It is very difficult to use Microsoft's implementation of C# without using the .NET Framework as well.
+.NET Framework is a large collection of Microsoft libraries that you can use from your C# code. 

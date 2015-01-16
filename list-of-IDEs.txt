@@ -1,0 +1,16 @@
+﻿List with popular development environments (IDEs):
+
+1. Visual Studio
+	Visual Studio has an advantage when it comes to programming. This IDE is mostly used by corporate programmers to produce .NET code.
+
+2. Eclipse
+	The interface is a lot cleaner and concise than Visual Studio and the languages that are possible to use extend past the .Net Framework. Besides being the number on way to develop Android applications via the Android SDK, it is fully extensible to use languages such as Ruby, C, C++ and many many more.
+
+3. Netbeans
+	 This program is extensible and free, and it compiles code, which is a bonus. NetBeans is a popular IDE for C and C++ projects. It also supports Fortan and Assembler files.
+
+4. Code::Blocks
+	Code::Blocks is an extensible and fully configurable IDE designed to support its users most demanding needs, supports C, C++ and Fortran. It provides a consistent look, feel and operation across all platforms for seamless transitions between work spaces, and it’s built around a plug-in framework, providing a multitude of options for extension. 
+
+5. CodeLite
+	CodeLite is open-source, cross-platform IDE for C and C++. It works on all major platforms. CodeLite offers a variety of features, including two built-in completion engines, compilers, refactoring, code navigation and more.
